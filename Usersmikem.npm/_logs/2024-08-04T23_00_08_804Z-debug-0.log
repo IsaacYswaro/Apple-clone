@@ -1,0 +1,19 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Users\mikem\.npm-global\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.8.2
+2 info using node@v20.11.1
+3 silly config load:file:C:\Users\mikem\.npm-global\node_modules\npm\npmrc
+4 silly config load:file:c:\Users\mikem\Desktop\Evangadi\Phase-3\Week-5\Apple-Class Component-and-Props\react-apple-props\.npmrc
+5 silly config load:file:C:\Users\mikem\.npmrc
+6 silly config load:file:C:\Users\mikem\.npm-global\etc\npmrc
+7 verbose title npm view @testing-library/react description dist-tags.latest homepage version time
+8 verbose argv "view" "--json" "--" "@testing-library/react" "description" "dist-tags.latest" "homepage" "version" "time"
+9 verbose logfile logs-max:10 dir:C:\Users\mikem\Desktop\Evangadi\Phase-3\Week-5\Apple-Class Component-and-Props\react-apple-props\Usersmikem.npm\_logs\2024-08-04T23_00_08_804Z-
+10 verbose logfile C:\Users\mikem\Desktop\Evangadi\Phase-3\Week-5\Apple-Class Component-and-Props\react-apple-props\Usersmikem.npm\_logs\2024-08-04T23_00_08_804Z-debug-0.log
+11 silly logfile done cleaning log files
+12 http fetch GET 200 https://registry.npmjs.org/@testing-library%2freact 239ms (cache miss)
+13 verbose cwd c:\Users\mikem\Desktop\Evangadi\Phase-3\Week-5\Apple-Class Component-and-Props\react-apple-props
+14 verbose os Windows_NT 10.0.22631
+15 verbose node v20.11.1
+16 verbose npm  v10.8.2
+17 verbose exit 0
+18 info ok
