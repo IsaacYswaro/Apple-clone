@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Apple-clone/static/css/main.942a4be3.css",
+    "main.js": "/Apple-clone/static/js/main.b101dc43.js",
+    "static/media/iphone11-pro-bg.jpg": "/Apple-clone/static/media/iphone11-pro-bg.bf8cd2105e053ac6974b.jpg",
+    "static/media/iphone11-colored.jpg": "/Apple-clone/static/media/iphone11-colored.fe52aed245a591e8cc94.jpg",
+    "static/media/macbookair-new.jpg": "/Apple-clone/static/media/macbookair-new.f94e24a8383395b7d3e2.jpg",
+    "static/media/spyder.jpg": "/Apple-clone/static/media/spyder.c91b56342f94fc6e6e1f.jpg",
+    "static/media/actors.jpg": "/Apple-clone/static/media/actors.10f4f8d078a989ccb9bc.jpg",
+    "static/media/ipodPronew.jpg": "/Apple-clone/static/media/ipodPronew.03e7d6e41eae3bca23ad.jpg",
+    "static/media/watch.jpg": "/Apple-clone/static/media/watch.8c1f1e9707b29ce07494.jpg",
+    "static/media/apple-card-monthly.jpg": "/Apple-clone/static/media/apple-card-monthly.a77ef6c49a97f9b1826e.jpg",
+    "static/media/macbookair-new-sm.jpg": "/Apple-clone/static/media/macbookair-new-sm.0a6fe6cc80d2c1257b36.jpg",
+    "static/media/ipodPronew-sm.jpg": "/Apple-clone/static/media/ipodPronew-sm.fc51d11e103f25e4b84b.jpg",
+    "index.html": "/Apple-clone/index.html",
+    "main.942a4be3.css.map": "/Apple-clone/static/css/main.942a4be3.css.map",
+    "main.b101dc43.js.map": "/Apple-clone/static/js/main.b101dc43.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.942a4be3.css",
+    "static/js/main.b101dc43.js"
+  ]
+}
